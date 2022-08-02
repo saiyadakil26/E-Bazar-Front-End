@@ -1,0 +1,55 @@
+
+  .myhead {
+    background-color: #f3f6fc;
+    max-height: 100;
+    width: 99.5%;
+    display: flex;
+    flex-direction: row;
+    font-size: calc(10px + 2vmin);
+    border-style:groove;
+    border-color: #059fce;
+  }
+  .h1{
+    background-color:rgba(25, 178, 238, 0.295);
+    color: black;
+    width:75vh;
+    height:14.1vh;
+    float: left;
+    align-content:center;
+    border-style: groove;
+    border-color: #059fce;
+  }
+  .h2{
+    background-color: #2d333f;
+    background-image: url("../image/abc.jpg");
+    background-size: auto 100%;
+    width:500vh;
+    height:14.1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    color:rgba(22, 190, 190, 0.589);
+    text-align: center;
+    text-decoration: wavy;
+    border-style: groove;
+    border-color: #059fce;
+   }
+   .h3{
+    background-color:rgb(25, 178, 238);
+    color: black;
+    width:75vh;
+    height:14.1vh;
+    float: left;
+    align-content:center;
+    border-style: groove;
+    border-color: #059fce;
+  }
+   .App-logo {
+    height: 100%;
+    width: auto;
+  }
+  .App-logoq {
+    width: auto;
+    height: 100%;
+  }
